@@ -1,4 +1,4 @@
 S.O-System
 ==========
-This is the object! And it will be popular!
+Learning Objective C or programming. The whole new world will open for you :)))
 
